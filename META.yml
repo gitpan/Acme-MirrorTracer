@@ -1,6 +1,6 @@
 ---
 name: Acme-MirrorTracer
-version: 2009.0516222530
+version: 2009.051623835
 author:
   - 'Andy Armstrong <andy@hexten.net>'
 abstract: Do nothing.
@@ -12,7 +12,7 @@ requires:
 provides:
   Acme::MirrorTracer:
     file: lib/Acme/MirrorTracer.pm
-    version: 2009.0516222530
+    version: 2009.051623835
 generated_by: Module::Build version 0.33
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
